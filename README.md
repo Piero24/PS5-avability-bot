@@ -1,1 +1,1 @@
-# PS%-avability-bot
+# PS5-avability-bot
